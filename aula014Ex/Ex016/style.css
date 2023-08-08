@@ -13,7 +13,8 @@ section {
     border-radius: 10px;
     background: rgb(240, 224, 4);
     padding: 15px;
-    width: 400px;
+    height: 700px;
+    width: 600px;
     margin: auto;
     box-shadow: 5px 5px 10px black;
 }
@@ -21,4 +22,11 @@ section {
 footer {
     text-align: center;
     font-style: italic;
+}
+
+div#res {
+    height: 500px;
+    width: 590px;
+    text-align: center;
+    background-color: aqua;
 }
