@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    font: normal 15pt Courier New;
+    background-color: blueviolet;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    border-radius: 10px;
+    background: rgb(240, 224, 4);
+    padding: 15px;
+    min-width: 159px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    
+}
+
+select#flista {
+    width: 150px;
+}
+
